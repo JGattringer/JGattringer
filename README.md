@@ -1,13 +1,22 @@
-- 👋 Hello, I'm @JGattringer 32 years old looking for a new career, graduated as Bachelor of Gastronomy, worked 12 years as a professional chef but now learning to program to become a Python Dev!
-- my mother tongue is Portuguese and I have English as a second language.
-- I lived 7 years outside Brazil, 2 years living in Ireland and the last 5 years in the UK, where I was responsible for a large professional kitchen as Head Chef!
-- 👀 I am interested in Python, SQL, Data Science
-- 🌱 I am currently learning Python, SQL and Data Science
-- 💞️ I know I don't have much expertise in IT but like everything I've done in life, I put 100% of myself into the things I do, I care for and love, I'm still developing my hard skills,
-- but on the other hand my soft skills are very good, as I developed them in the last 12 years in my old profession,
-- 📫 How to get there: www.linkedin.com/in/joão-francisco-gattringer-483080a7 or via my email: jfl.gattringer@gmail.com
-- 
-<!---
-JGattringer/JGattringer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🌱 About Me:
+Passionate about the art of cooking and coding, I am Joao Gattringer, a determined and adaptable individual seeking a new and exciting career path as a Python Developer. With a strong background in gastronomy, I developed valuable soft skills as a chef, excelling in team management, working under pressure, and meeting tight deadlines. My time spent abroad in Ireland and the UK honed my ability to embrace challenges and adapt to diverse environments.
+
+🔍 Career Transition:
+In pursuit of my passion for technology and data, I embarked on a journey to learn programming and data science. Since March, I have been diligently studying Python, undertaking various tutorials, and enrolling in a comprehensive course that covers Python basics, advanced topics, SQL, data science, and more. My GitHub profile showcases my progress and coding projects.
+
+👨‍💻 Technical Skills:
+Python | SQL | Data Science | R+
+
+👩‍🍳 From Chef to Coder:
+Transitioning from the culinary world to tech may seem unconventional, but my experience as a chef has significantly contributed to my growth as a professional. Leading teams in a fast-paced kitchen environment taught me invaluable communication, problem-solving, and organizational skills that I now bring to my coding journey.
+
+🎓 Education:
+📚 Gastronomy Graduate (2014) | [Univali - SC]
+
+🏆 Certification:
+📜 Certificate in Python Development (2023) | [Mentorama]
+
+🇧🇷 Fluent in Portuguese and English | Basic Spanish and Italian
+
+🌐 Connect with Me:
+Let's connect to explore new opportunities and collaborate on exciting Python projects. Open to Junior Python Developer roles and eager to contribute to a dynamic and innovative team.
